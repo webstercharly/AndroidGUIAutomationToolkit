@@ -17,7 +17,7 @@ AndroidGUIAutomationToolkit is a comprehensive framework designed for GUI automa
 ### Installation
 Clone the repository:
 ```bash
-git clone https://github.com/[YourUsername]/AndroidGUIAutomationToolkit.git
+git clone https://github.com/webstercharly/AndroidGUIAutomationToolkit.git
 ```
 
 Install the required dependencies:
